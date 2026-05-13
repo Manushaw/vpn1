@@ -18,7 +18,7 @@ remote-cert-tls server
 tls-version-min 1.2
 reneg-sec 604800
 verb 3
-
+push-peer-info
   
 
 <ca>
