@@ -19,9 +19,7 @@ tls-version-min 1.2
 reneg-sec 604800
 verb 3
 push-peer-info
-auth-user-pass
-setenv CLIENT_CERT 0
-setenv IGNORE_UNKNOWN_HTTP_PROXY 1      
+  
 
 <ca>
 -----BEGIN CERTIFICATE-----
