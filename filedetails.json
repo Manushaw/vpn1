@@ -4,14 +4,14 @@
 client
 server-poll-timeout 4
 nobind
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 443 tcp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 443 tcp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
 dev tun
 dev-type tun
 remote-cert-tls server
@@ -121,14 +121,14 @@ bd424f59a0e0c8677a1b0d020fb75aec
 client
 server-poll-timeout 4
 nobind
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 443 tcp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 443 tcp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
 dev tun
 dev-type tun
 remote-cert-tls server
@@ -238,14 +238,14 @@ bd424f59a0e0c8677a1b0d020fb75aec
 client
 server-poll-timeout 4
 nobind
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 443 tcp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 443 tcp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
 dev tun
 dev-type tun
 remote-cert-tls server
@@ -355,14 +355,14 @@ bd424f59a0e0c8677a1b0d020fb75aec
 client
 server-poll-timeout 4
 nobind
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 443 tcp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 443 tcp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
 dev tun
 dev-type tun
 remote-cert-tls server
@@ -472,14 +472,14 @@ bd424f59a0e0c8677a1b0d020fb75aec
 client
 server-poll-timeout 4
 nobind
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 443 tcp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 443 tcp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
 dev tun
 dev-type tun
 remote-cert-tls server
@@ -589,14 +589,14 @@ bd424f59a0e0c8677a1b0d020fb75aec
 client
 server-poll-timeout 4
 nobind
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 443 tcp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 443 tcp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
 dev tun
 dev-type tun
 remote-cert-tls server
@@ -706,14 +706,14 @@ bd424f59a0e0c8677a1b0d020fb75aec
 client
 server-poll-timeout 4
 nobind
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 443 tcp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 443 tcp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
 dev tun
 dev-type tun
 remote-cert-tls server
@@ -823,14 +823,14 @@ bd424f59a0e0c8677a1b0d020fb75aec
 client
 server-poll-timeout 4
 nobind
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 443 tcp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 443 tcp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
 dev tun
 dev-type tun
 remote-cert-tls server
@@ -940,14 +940,14 @@ bd424f59a0e0c8677a1b0d020fb75aec
 client
 server-poll-timeout 4
 nobind
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 443 tcp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 443 tcp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
 dev tun
 dev-type tun
 remote-cert-tls server
@@ -1057,14 +1057,14 @@ bd424f59a0e0c8677a1b0d020fb75aec
 client
 server-poll-timeout 4
 nobind
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 443 tcp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 443 tcp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
 dev tun
 dev-type tun
 remote-cert-tls server
@@ -1174,14 +1174,14 @@ bd424f59a0e0c8677a1b0d020fb75aec
 client
 server-poll-timeout 4
 nobind
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 443 tcp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
-remote 54.242.86.247 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 443 tcp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
+remote 98.93.21.220 1194 udp
 dev tun
 dev-type tun
 remote-cert-tls server
