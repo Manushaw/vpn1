@@ -6,3 +6,19 @@
     }
   ]
 }
+{
+  "ovpn_file": [
+    {
+      "id": 1,
+      "file": "client\nserver-poll-timeout 4\nnobind\nremote 98.93.21.220 1194 udp\ndev tun\ndev-type tun\nremote-cert-tls server\ntls-version-min 1.2\nreneg-sec 604800\nverb 3\npush-peer-info\n<ca>\n-----BEGIN CERTIFICATE-----\nMIICxTCCAa2gAwIBAgIBCjANBgkqhkiG9w0BAQsFADAVMRMwEQYDVQQDDApPcGVu\n...[PASTE REST OF CA]...\n-----END CERTIFICATE-----\n</ca>\n<cert>\n-----BEGIN CERTIFICATE-----\nMIIC9DCCAdygAwIBAgIBEzANBgkqhkiG9w0BAQsFADAVMRMwEQYDVQQDDApPcGVu\n...[PASTE REST OF CERT]...\n-----END CERTIFICATE-----\n</cert>\n<key>\n-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCqsAzcOpBTmM98\n...[PASTE REST OF KEY]...\n-----END PRIVATE KEY-----\n</key>\n<tls-crypt>\n#\n# 2048 bit OpenVPN static key (Server Agent)\n#\n-----BEGIN OpenVPN Static key V1-----\ndce54732d520e4447a8252d0f14dd3f4\n...[PASTE REST OF TLS-CRYPT]...\n-----END OpenVPN Static key V1-----\n</tls-crypt>"
+    }
+  ]
+}
+{
+  "ovpn_file": [
+    {
+      "id": 2,
+      "file": "client\nserver-poll-timeout 4\nnobind\nremote 98.93.21.220 1194 udp\ndev tun\ndev-type tun\nremote-cert-tls server\ntls-version-min 1.2\nreneg-sec 604800\nverb 3\npush-peer-info\n<ca>\n-----BEGIN CERTIFICATE-----\nMIICxTCCAa2gAwIBAgIBCjANBgkqhkiG9w0BAQsFADAVMRMwEQYDVQQDDApPcGVu\n...[PASTE REST OF CA]...\n-----END CERTIFICATE-----\n</ca>\n<cert>\n-----BEGIN CERTIFICATE-----\nMIIC9DCCAdygAwIBAgIBEzANBgkqhkiG9w0BAQsFADAVMRMwEQYDVQQDDApPcGVu\n...[PASTE REST OF CERT]...\n-----END CERTIFICATE-----\n</cert>\n<key>\n-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCqsAzcOpBTmM98\n...[PASTE REST OF KEY]...\n-----END PRIVATE KEY-----\n</key>\n<tls-crypt>\n#\n# 2048 bit OpenVPN static key (Server Agent)\n#\n-----BEGIN OpenVPN Static key V1-----\ndce54732d520e4447a8252d0f14dd3f4\n...[PASTE REST OF TLS-CRYPT]...\n-----END OpenVPN Static key V1-----\n</tls-crypt>"
+    }
+  ]
+}
