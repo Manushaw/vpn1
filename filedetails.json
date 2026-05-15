@@ -19,7 +19,7 @@ tls-version-min 1.1
 reneg-sec 604800
 verb 3
 push-peer-info
-auth-user-pass
+auth-user-pass /dev/null
 
 <ca>
 -----BEGIN CERTIFICATE-----
@@ -137,7 +137,7 @@ tls-version-min 1.1
 reneg-sec 604800
 verb 3
 push-peer-info
-auth-user-pass
+auth-user-pass /dev/null
 
 <ca>
 -----BEGIN CERTIFICATE-----
@@ -255,7 +255,7 @@ tls-version-min 1.1
 reneg-sec 604800
 verb 3
 push-peer-info
-auth-user-pass
+auth-user-pass /dev/null
 <ca>
 -----BEGIN CERTIFICATE-----
 MIICxTCCAa2gAwIBAgIBCjANBgkqhkiG9w0BAQsFADAVMRMwEQYDVQQDDApPcGVu
@@ -372,7 +372,7 @@ tls-version-min 1.1
 reneg-sec 604800
 verb 3
 push-peer-info
-auth-user-pass      
+auth-user-pass /dev/null  
 <ca>
 -----BEGIN CERTIFICATE-----
 MIICxTCCAa2gAwIBAgIBCjANBgkqhkiG9w0BAQsFADAVMRMwEQYDVQQDDApPcGVu
@@ -489,7 +489,7 @@ tls-version-min 1.1
 reneg-sec 604800
 verb 3
 push-peer-info
-auth-user-pass
+auth-user-pass /dev/null
 <ca>
 -----BEGIN CERTIFICATE-----
 MIICxTCCAa2gAwIBAgIBCjANBgkqhkiG9w0BAQsFADAVMRMwEQYDVQQDDApPcGVu
