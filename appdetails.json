@@ -1,52 +1,31 @@
 {
-  "ads": "true",
-  "update": [
-    {
-      "version": "2.8.1600",
-      "title": "This app is now Open Source",
-      "description": "The App is available at github.com/gayankuruppu/android-vpn-client-ics-openvpn",
-      "size": "https://git.io/JeY69"
-    }
+  "ads":"true",
+  "update":[{
+    "version":"",
+    "title":"Note",
+    "description":"If you have installed any other vpn app kindly uninstall it otherwise you won't be able to connect to our VPN",
+    "size":""
+  }],
+  "blocked":[
+    {"id":0, "app":"com.android.game"},
+    {"id":1, "app":"com.utorrent.client"},
+    {"id":2, "app":"com.torrent.client"},
+    {"id":3, "app":"com.tor.client"},
+    {"id":4, "app":"com.insta.client"},
+    {"id":5, "app":"com.facebook.client"},
+    {"id":6, "app":"com.get.client"}
   ],
-  "blocked": [
-    { "id": 0, "app": "com.android.game" },
-    { "id": 1, "app": "com.utorrent.client" },
-    { "id": 2, "app": "com.torrent.client" },
-    { "id": 3, "app": "com.tor.client" },
-    { "id": 4, "app": "com.insta.client" },
-    { "id": 5, "app": "com.facebook.client" },
-    { "id": 6, "app": "com.get.client" }
-  ],
-  "free": [
-    {
-      "id": 0,
-      "file": 0,
-      "city": "Essen",
-      "country": "Germany",
-      "image": "germany",
-      "ip": "98.93.21.220",
-      "active": "true",
-      "signal": "a"
-    },
-    {
-      "id": 1,
-      "file": 0,
-      "city": "Hamburg",
-      "country": "Germany",
-      "image": "germany",
-      "ip": "98.93.21.220",
-      "active": "true",
-      "signal": "b"
-    },
-    {
-      "id": 2,
-      "file": 1,
-      "city": "Los Angeles CA",
-      "country": "United States",
-      "image": "unitedstates",
-      "ip": "98.93.21.220",
-      "active": "true",
-      "signal": "c"
-    }
+  "free":[
+    {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"54.242.86.247","active":"true","signal":"a"},
+     {"id":1, "file":1, "city":"United States","country":"United States","image":"unitedstates","ip":"54.242.86.247","active":"true","signal":"a"},
+     {"id":2, "file":2, "city":"United States","country":"United States","image":"unitedstates","ip":"54.242.86.247","active":"true","signal":"a"},
+     {"id":3, "file":3, "city":"United States","country":"United States","image":"unitedstates","ip":"54.242.86.247","active":"true","signal":"a"},
+     {"id":4, "file":4, "city":"United States","country":"United States","image":"unitedstates","ip":"54.242.86.247","active":"true","signal":"a"},
+     {"id":5, "file":5, "city":"United States","country":"United States","image":"unitedstates","ip":"54.242.86.247","active":"true","signal":"a"},
+     {"id":6, "file":6, "city":"United States","country":"United States","image":"unitedstates","ip":"54.242.86.247","active":"true","signal":"a"},
+     {"id":7, "file":7, "city":"United States","country":"United States","image":"unitedstates","ip":"54.242.86.247","active":"true","signal":"a"},
+     {"id":8, "file":8, "city":"United States","country":"United States","image":"unitedstates","ip":"54.242.86.247","active":"true","signal":"a"},
+     {"id":9, "file":9, "city":"United States","country":"United States","image":"unitedstates","ip":"54.242.86.247","active":"true","signal":"a"},
+     {"id":10, "file":10, "city":"United States","country":"United States","image":"unitedstates","ip":"54.242.86.247","active":"true","signal":"a"},
   ]
 }
