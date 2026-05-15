@@ -15,12 +15,10 @@ remote 98.93.21.220 1194 udp
 dev tun
 dev-type tun
 remote-cert-tls server
-tls-version-min 1.1
+tls-version-min 1.2
 reneg-sec 604800
 verb 3
 push-peer-info
-auth-user-pass /dev/null
-
 <ca>
 -----BEGIN CERTIFICATE-----
 MIICxTCCAa2gAwIBAgIBCjANBgkqhkiG9w0BAQsFADAVMRMwEQYDVQQDDApPcGVu
@@ -133,11 +131,10 @@ remote 98.93.21.220 1194 udp
 dev tun
 dev-type tun
 remote-cert-tls server
-tls-version-min 1.1
+tls-version-min 1.2
 reneg-sec 604800
 verb 3
 push-peer-info
-auth-user-pass /dev/null
 
 <ca>
 -----BEGIN CERTIFICATE-----
@@ -251,11 +248,10 @@ remote 98.93.21.220 1194 udp
 dev tun
 dev-type tun
 remote-cert-tls server
-tls-version-min 1.1
+tls-version-min 1.2
 reneg-sec 604800
 verb 3
 push-peer-info
-auth-user-pass /dev/null
 <ca>
 -----BEGIN CERTIFICATE-----
 MIICxTCCAa2gAwIBAgIBCjANBgkqhkiG9w0BAQsFADAVMRMwEQYDVQQDDApPcGVu
@@ -368,11 +364,10 @@ remote 98.93.21.220 1194 udp
 dev tun
 dev-type tun
 remote-cert-tls server
-tls-version-min 1.1
+tls-version-min 1.2
 reneg-sec 604800
 verb 3
 push-peer-info
-auth-user-pass /dev/null  
 <ca>
 -----BEGIN CERTIFICATE-----
 MIICxTCCAa2gAwIBAgIBCjANBgkqhkiG9w0BAQsFADAVMRMwEQYDVQQDDApPcGVu
